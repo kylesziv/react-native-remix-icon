@@ -395,6 +395,7 @@ export { default as ChinaRailwayFill } from "./ChinaRailwayFill";
 export { default as ChinaRailwayLine } from "./ChinaRailwayLine";
 export { default as ChromeFill } from "./ChromeFill";
 export { default as ChromeLine } from "./ChromeLine";
+export { default as CircleFill } from './CircleFill';
 export { default as ClapperboardFill } from "./ClapperboardFill";
 export { default as ClapperboardLine } from "./ClapperboardLine";
 export { default as ClipboardFill } from "./ClipboardFill";
