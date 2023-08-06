@@ -917,6 +917,7 @@ export { default as Forbid2Line } from "./Forbid2Line";
 export { default as ForbidFill } from "./ForbidFill";
 export { default as ForbidLine } from "./ForbidLine";
 export { default as FormatClear } from "./FormatClear";
+export { default as Forward10Line } from "./Forward10Line";
 export { default as FridgeFill } from "./FridgeFill";
 export { default as FridgeLine } from "./FridgeLine";
 export { default as FullscreenExitFill } from "./FullscreenExitFill";
